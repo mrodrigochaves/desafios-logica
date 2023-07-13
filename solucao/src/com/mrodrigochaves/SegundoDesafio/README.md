@@ -24,7 +24,7 @@ Exemplo de Entrada      |        Exemplo de Saída
                         | 1 nota(s) de R$ 50.00
                         | 1 nota(s) de R$ 20.00
                         | 0 nota(s) de R$ 10.00
-                        | 0 nota(s) de R$ 10.00
+                        | 1 nota(s) de R$ 10.00
                         | 0 nota(s) de R$ 2.00
                         | MOEDAS:
                         | 1 moeda(s) de R$ 1.00
