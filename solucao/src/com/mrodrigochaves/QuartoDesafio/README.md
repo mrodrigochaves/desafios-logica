@@ -31,3 +31,12 @@ original, conforme especificação acima.
 Saída
 Para cada linha de entrada deverá ser impressa uma linha de saída com a frase decifrada, 
 conforme a especificação acima.
+
+Exemplo de Entrada                      |        Exemplo de Saída
+:------------------                     |        :----------------
+5                                       | THIS LINE IS GIBBERISH
+I ENIL SIHTHSIREBBIG S                  | LEVELKAYAK
+LEVELKAYAK                              | HAPPY HOLIDAYS
+H YPPAHSYADILO                          | MLKJIHGFEDCBAZYXWVUTSRQPON
+ABCDEFGHIJKLMNOPQRSTUVWXYZ              | FRENCH HENS TWO DOVES AND A PARTRIDGE
+VOD OWT SNEH HCNERF EGDIRTRAP A DNA SE  | 
